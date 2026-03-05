@@ -18,8 +18,8 @@ python3 src/cache_sim.py data/example.in
 
 To recreate the example output:
 
-python3 src/cache_sim.py data/example.in > data/example.out
-python3 src/cache_sim.py data/q2_lru.in > data/q2_lru.out
+    python3 src/cache_sim.py data/example.in > data/example.out
+    python3 src/cache_sim.py data/q2_lru.in > data/q2_lru.out
 
 You can also run:
 
